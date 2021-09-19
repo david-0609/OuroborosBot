@@ -18,4 +18,4 @@ This bot is not ready yet. We work every day to make it better, to make it quali
 
 ## Functions
 * 🛡️ Moderating your server without your help. Setup once — use forever.
-* ⏳ More functions coming soon.
+* ~~⏳ More functions coming soon.~~
