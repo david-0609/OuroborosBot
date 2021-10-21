@@ -1,4 +1,4 @@
-## Development have ceased due to the discordpy library dropping maintaince. Migration to Rust may come in the future. 
+## Development have ceased due to the discordpy library dropping maintaince. Migration to Rust may come in the future. As Lead Developer of this Project, I have decided to fork this repo in case of restarting development.
 
 [![Discord](https://img.shields.io/discord/851429334496313387?color=5865F2&label=Discord&logo=Discord&logoColor=white&style=for-the-badge)](
 https://discord.gg/CvyTM7rjaE)
